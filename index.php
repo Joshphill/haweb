@@ -13,6 +13,6 @@
     include("about.php");
     include("testimonial.php");
     include("contact.php");
-    include("footer.php");
-    include("products.php");
+    
+   
     

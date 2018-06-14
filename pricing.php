@@ -2,17 +2,15 @@
     <br /><br />
     <div class="row">
         <div class="col-xs-12 text-xs-center">
-            <h1 class="display-4">PRICING</h1>
+            <h1 class="display-4">What We Do</h1>
         </div>
         <br /><br /><br /><br />
 
-        <div class="col-xs-12 text-xs-center pricing">
-            After an initial set up fee of <strong>&pound;499.00</strong>. All packages include <strong>ALL</strong> Nosco features as standard.
-        </div>
+
         <div class="col-xs-12 col-sm-3">
             <div class="card text-xs-center card-inverse"  style="background-color: #333; border-color: #333;">
                 <div class="card-block" style="background-color:#357ebf; color:#FFF">
-                    <h4 class="card-title">Small Lender</h4>
+                    <h4 class="card-title">IT Support</h4>
                     <h6 class="card-subtitle" style="color:#CDCDCD; margin-bottom: 8px">Less than 1000 active loans</h6>
                     <h6 class="card-subtitle" style="color:#CDCDCD">or £100,000 loan book</h6>
                 </div>
@@ -26,7 +24,7 @@
         <div class="col-xs-12 col-sm-3">
             <div class="card text-xs-center card-inverse"  style="background-color: #333; border-color: #333;">
                 <div class="card-block" style="background-color:#357ebf; color:#FFF">
-                    <h4 class="card-title">Medium Lender</h4>
+                    <h4 class="card-title">Home Automation</h4>
                     <h6 class="card-subtitle" style="color:#CDCDCD; margin-bottom: 8px">Less than 3000 active loans</h6>
                     <h6 class="card-subtitle" style="color:#CDCDCD">or £300,000 loan book</h6>
                 </div>
@@ -40,7 +38,7 @@
         <div class="col-xs-12 col-sm-3">
             <div class="card text-xs-center card-inverse"  style="background-color: #333; border-color: #333;">
                 <div class="card-block" style="background-color:#357ebf; color:#FFF">
-                    <h4 class="card-title">Large Lender</h4>
+                    <h4 class="card-title">Web Development</h4>
                     <h6 class="card-subtitle" style="color:#CDCDCD; margin-bottom: 8px">Less than 5000 active loans</h6>
                     <h6 class="card-subtitle" style="color:#CDCDCD">or £500,000 loan book</h6>
                 </div>
@@ -54,7 +52,7 @@
         <div class="col-xs-12 col-sm-3">
             <div class="card text-xs-center card-inverse"  style="background-color: #333; border-color: #333;">
                 <div class="card-block" style="background-color:#357ebf; color:#FFF">
-                    <h4 class="card-title">Custom</h4>
+                    <h4 class="card-title">Security</h4>
                     <h6 class="card-subtitle" style="color:#CDCDCD; margin-bottom: 8px">More than 5000 active loans</h6>
                     <h6 class="card-subtitle" style="color:#CDCDCD">or £500,000 loan book</h6>
                 </div>

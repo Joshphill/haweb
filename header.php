@@ -37,8 +37,8 @@
         <meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
     </head>
     <body data-spy="scroll" data-target="#navbar-scroll" data-offset="150">
-        <nav class="navbar navbar-fixed-top navbar-dark bg-faded" id="navbar-scroll" style="background-color:#CA4242;">
-            <a class="navbar-brand noclick logo" href=""><img src="images/cube-logo123.png" style="height:32px; width:auto;"><h4>HA Tech</h4></a>
+        <nav class="navbar navbar-fixed-top navbar-dark bg-faded" id="navbar-scroll" style="background-color:rgb(180, 180, 180);">
+            <a class="navbar-brand noclick logo" href=""><img src="images/cube-logo123.png" style="height:22px; float:left; width:auto;"><h4 style="float:left;">HA Tech</h4></a>
             <div class="container">
                 <button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2" aria-controls="exCollapsingNavbar2" aria-expanded="false" aria-label="Toggle navigation">
                     &#9776;
@@ -47,13 +47,9 @@
                     <ul class="nav navbar-nav navbar-right">
                         <li class="nav-item"><a class="nav-link" href="#home">Home</a></li>
                         <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#ecpa">ECPA</a></li>
                         <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#testimonial">Testimonials</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>   
                         <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                        <li class="nav-item"><strong><a class="nav-link" href="https://www.nospos.com/" target="_blank">NosPos</a></strong></li>
-                        <li class="nav-item"><strong><a class="nav-link" href="http://www.captivad.co.uk/" target="_blank">CaptivAd</a></strong></li>
                     </ul>
                 </div>
             </div>

@@ -108,43 +108,12 @@
                     <input type="submit" name="contact" value="Send Enquiry" class="btn btn-block btn-outline-success">
                 </div>
             </form>
-        <?php else: ?>
-            <div class="col-xs-12 text-xs-center">
-                <div class="alert alert-success" role="alert">
-                    Your enquiry has been delivered successfully. Please wait 48 hours for a response. Thank you.
+            <?php else: ?>
+                <div class="col-xs-12 text-xs-center">
+                    <div class="alert alert-success" role="alert">
+                        Your enquiry has been delivered successfully. Please wait 48 hours for a response. Thank you.
+                    </div>
                 </div>
-            </div>
-        <?php endif ?>
-        <div class="col-xs-12 text-xs-center">
-            <br /><br /><br />
-            <h4 style="font-weight: 300">Alternatively, contact us in other ways...</h4>
-            <br />
-        </div>
-        <div class="col-xs-12 col-sm-6">
-            <?php include("map.php"); ?>
-        </div>
-        <div class="col-xs-12 col-sm-6">
-            By post...
-            <address>
-                <a href="https://goo.gl/maps/2d5FsvzqUBx" target="_blank">
-                    <strong>5 High Street,</strong><br />
-                    Pontypridd,<br />
-                    Rhondda Cynon Taff,<br />
-                    CF37 1QJ
-                </a>
-            </address>
-            By phone...<br />
-            <strong><a href="tel:01443400998">01443 400998</a></strong>
-
-            <br /><br />
-            By email...<br />
-            <strong><a href="mailto:admin@nosco-systems.com" target="_top">admin@nosco-systems.com</a></strong>
-            <br />
-            <p>
-                <a href="https://www.facebook.com/noscosystems" class="fa fa-facebook-square white-text" target="_black"></a>
-                <a href="https://twitter.com/nosco_systems?lang=en" class="fa fa-twitter-square white-text" target="_blank"></a>
-                <a href="https://www.linkedin.com/company/nosco-systems" class="fa fa-linkedin-square white-text" target="_black"></a>
-            </p>
-        </div>
+            <?php endif ?>
     </div>
 </div>
