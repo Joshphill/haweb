@@ -15,4 +15,4 @@
     include("contact.php");
     include("footer.php");
     include("products.php");
-    
+    include("copyright.php");

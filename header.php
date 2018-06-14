@@ -38,7 +38,7 @@
     </head>
     <body data-spy="scroll" data-target="#navbar-scroll" data-offset="150">
         <nav class="navbar navbar-fixed-top navbar-dark bg-faded" id="navbar-scroll" style="background-color:#CA4242;">
-            <a class="navbar-brand noclick" href="#"><h4>NOSCO</h4></a>
+            <a class="navbar-brand noclick logo" href=""><img src="images/cube-logo123.png" style="height:32px; width:auto;"><h4>HA Tech</h4></a>
             <div class="container">
                 <button class="navbar-toggler hidden-sm-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar2" aria-controls="exCollapsingNavbar2" aria-expanded="false" aria-label="Toggle navigation">
                     &#9776;
