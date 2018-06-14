@@ -1,0 +1,192 @@
+body {
+  width: 100% !important;
+  background: rgb(238, 238, 238);
+  position: relative;
+  height: 100%;
+  overflow-y: scroll;
+}
+
+@font-face {
+    font-family: "Tripleta";
+    src: url("fonts/tripleta/tripleta.ttf");
+    }
+
+.noclick {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.navbar-right {
+    text-align: right !important;
+    margin-right: 0px !important;
+    float: right !important;
+}
+
+.sol-link {
+  font-family: "Hind Guntur", sans-serif;;
+}
+
+.logotext {
+  margin-top: 3px;
+}
+
+.title {
+  text-align: center;
+  padding: 30px;
+  background-color: #CA4242;
+  color: white;
+}
+.divider {
+  margin: 2.5%;
+}
+
+.text-violet {
+    color: #6b2772;
+}
+
+#home {
+    max-height:500px;
+}
+
+#home img {
+    max-height: 500px;
+    width:100%;
+}
+
+.media {
+    padding: 8px;
+}
+
+.media:hover {
+    background-color: rgba(0,0,0, 0.1);
+    border-radius: 3px;
+    cursor:pointer;
+}
+
+.media-heading {
+    font-weight: 400;
+
+}
+
+.blockquote {
+    font-size: 2em;
+    font-weight: 300;
+}
+
+.collapsed {
+    padding: 10px;
+}
+
+.tripleta {
+  font-family: "Hind Guntur", sans-serif;;
+  font-size: 3em;
+}
+
+.navbar-brand {
+  padding-top: 5px;
+  margin-bottom: -3px;
+  padding-left: 12%;
+}
+
+.product {
+    height: 135px;
+    }
+
+.pricing {
+  margin-bottom: 25px;
+}
+
+.nospos {
+  background-color: #d64a00;
+}
+
+.captivad {
+  background-color: #2b28ed;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.card-title, .card-subtitle {
+  color: white;
+  padding-top: 15px;
+}
+
+.btn {
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+}
+
+.float-right {
+  float: right;
+}
+
+.copyright {
+  font-size: 0.8em;
+}
+
+.navbar-toggler {
+  color: white !important;
+  float: right;
+}
+
+@media (max-width: 616px) {
+  .banner {
+    display: none;
+  }
+
+  .title {
+    font-size: 55px;
+  }
+
+  .titleline {
+    margin-top: -40px;
+  }
+
+  .mobile-title {
+    font-size: 30px;
+  }
+  .solutions {
+    margin-bottom: 30px;
+  }
+  input {
+    margin: 6px;
+    text-align: center;
+  }
+  .display-4 {
+    font-size: 2.6em;
+  }
+
+  .logo {
+    display: block;
+    margin-bottom: 2px;
+  }
+
+  .navbar-brand {
+    padding-top: 8px;
+    padding-left: 15px;
+  }
+
+}
+
+@media (min-width: 544px) {
+  .mobile-title {
+    display: none;
+  }
+}
+
+@media (min-width: 1700px) {
+  .divider {
+    margin: 7%;
+  }
+}
